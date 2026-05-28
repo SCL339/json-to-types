@@ -1,5 +1,6 @@
 {
-  "name": "json-to-types",
+  "name": "scl339-json-to-types",
+  "publishConfig": { "access": "public" },
   "version": "1.0.0",
   "description": "Convert JSON to TypeScript interfaces/types. CLI tool that generates accurate TS types from JSON — supports nested objects, arrays, optional fields, and .d.ts export.",
   "bin": {

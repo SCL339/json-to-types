@@ -197,6 +197,20 @@ export interface RootObject {
 - [git-branch-cleaner](https://github.com/SCL339/git-branch-cleaner) — Interactive CLI to clean up stale Git branches
 - [env-validator](https://github.com/SCL339/env-validator) — Validate .env files against .env.example
 
-## License
+
+
+---
+
+## 🤝 Support
+
+If you find this project useful, consider supporting my work:
+
+- 💖 **Sponsor via WeChat/Alipay**: Email `530765059@qq.com` for details
+- ☁️ **Get $200 free credit** on [DigitalOcean](https://www.digitalocean.com/?refcode=scl339-01&utm_campaign=Referral_Invite&utm_medium=opensource&utm_source=SCL339)
+- 🚀 **Deploy your frontend** on [Vercel](https://vercel.com/?utm_source=scl339&utm_campaign=oss)
+- ⭐ **Star this repo** to help others discover it
+
+
+## 📄 License
 
 MIT © [SCL339](https://github.com/SCL339)
