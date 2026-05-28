@@ -1,0 +1,42 @@
+{
+  "name": "json-to-types",
+  "version": "1.0.0",
+  "description": "Convert JSON to TypeScript interfaces/types. CLI tool that generates accurate TS types from JSON — supports nested objects, arrays, optional fields, and .d.ts export.",
+  "bin": {
+    "json-to-types": "./bin/json-to-types.js"
+  },
+  "main": "lib/converter.js",
+  "files": [
+    "bin/",
+    "lib/"
+  ],
+  "keywords": [
+    "json-to-typescript",
+    "json-to-types",
+    "typescript-generator",
+    "types-from-json",
+    "type-generator",
+    "json-to-ts",
+    "json-to-dts",
+    "codegen",
+    "nocode",
+    "type-definitions",
+    "interface-generator"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SCL339/json-to-types.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SCL339/json-to-types/issues"
+  },
+  "homepage": "https://github.com/SCL339/json-to-types#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "commander": "^12.0.0"
+  }
+}
